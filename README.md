@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Ojin0104's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ojin0104&show_icons=true&theme=solarized-light)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanyj0104)](https://solved.ac/hanyj0104/)
