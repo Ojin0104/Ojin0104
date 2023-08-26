@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ![IntelliJIDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
 
 
-### Certufucate 🎖
+### Certificate 🎖
 SW 역량테스트 B형<br/>
 소프티어 정기역량 진단 level 3
 
