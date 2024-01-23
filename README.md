@@ -43,5 +43,3 @@ SW 역량테스트 B형<br/>
 소프티어 정기역량 진단 level 3
 
 ### PORTFOLIO 🎞
-
-https://highfalutin-bath-17a.notion.site/c11bd704ea334605af66b8718c649373?pvs=4
